@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <string.h>
 
 int check_if_duplicated(char *str, char c, int right, int left)
 {
